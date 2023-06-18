@@ -4,7 +4,7 @@ body{
 	padding-inline: 1rem;
 	box-sizing: border-box;
 }
-ol {
+ul {
 	list-style:none;
 	background-color:white;
 	padding: 0;
